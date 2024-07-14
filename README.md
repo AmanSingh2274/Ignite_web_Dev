@@ -24,7 +24,7 @@ Navigate to the Project Directory:
 ### Copy code
 cd ignite-web-dev
 
-Open the Project in Your Preferred Code Editor:
+Open the Project in Your Preferred Code Editor :
 
 ### Copy code
 code .
