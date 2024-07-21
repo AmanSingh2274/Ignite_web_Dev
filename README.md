@@ -11,6 +11,7 @@ Modern Layouts: The website uses modern CSS techniques, including Flexbox and Gr
 Cross-Browser Compatibility: The project is tested across multiple browsers to ensure consistent performance and appearance.
 
 ##Installation
+
 To get a local copy of the project up and running, follow these simple steps:
 
 ## Clone the Repository:
