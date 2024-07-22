@@ -4,6 +4,7 @@ Welcome to the Ignite Web Dev project! This project is designed to be a comprehe
 ## Project Overview
 Ignite Web Dev is a showcase project that highlights the fundamentals of web development using HTML and CSS. The project includes various web pages with a cohesive design, demonstrating how to structure a website and style it effectively using CSS.
 
+
 ## Features
 Responsive Design: The website is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
 Clean and Maintainable Code: The project emphasizes the importance of writing clean, maintainable code with proper comments and documentation.
