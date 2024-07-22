@@ -11,7 +11,7 @@ Clean and Maintainable Code: The project emphasizes the importance of writing cl
 Modern Layouts: The website uses modern CSS techniques, including Flexbox and Grid, to create complex layouts that are easy to understand and manage.
 Cross-Browser Compatibility: The project is tested across multiple browsers to ensure consistent performance and appearance.
 
-##Installation
+## Installation
 
 To get a local copy of the project up and running, follow these simple steps:
 
