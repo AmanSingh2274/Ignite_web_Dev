@@ -1,4 +1,4 @@
-# Ignite Web Dev 
+# Ignite Web Dev  
 Welcome to the Ignite Web Dev project! This project is designed to be a comprehensive example of a modern website, built using HTML and CSS. It demonstrates best practices in web development, focusing on clean, maintainable code and a user-friendly design.
 
 ## Project Overview
